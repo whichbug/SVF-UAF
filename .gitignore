@@ -14,7 +14,6 @@ doxygen/
 *.o
 *.out
 *.ll
-*.bc
 *.opt
 *.log
 *.status
